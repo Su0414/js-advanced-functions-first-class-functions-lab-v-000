@@ -2,7 +2,9 @@
 const drivers = {};
 
 function returnFirstTwoDrivers(drivers){
+  const firstTwoDrivers = function (drivers){
 
+  }
 }
 
 function returnLastTwoDrivers(drivers){
