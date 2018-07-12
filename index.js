@@ -8,5 +8,7 @@ function returnFirstTwoDrivers(drivers){
 }
 
 function returnLastTwoDrivers(drivers){
-
+const lastTwoDrivers = function (drivers){
+  
+}
 }
